@@ -1,4 +1,6 @@
-{ products : {
+{ 
+      products : {
+      {
       id: 'Portfolio-AI-Agent',
       name: 'Portfolio AI Agent',
       price: 'Free',
@@ -89,4 +91,6 @@
           'https://res.cloudinary.com/dpfcle0os/image/upload/v1745970892/LISHAI-Marketplace/simba-logo_y1f0iq.svg',
         profileUrl: 'https://simba-ai.ai',
       },
-    }, }}
+    }, 
+    },
+},
