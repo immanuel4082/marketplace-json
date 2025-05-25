@@ -1,0 +1,23 @@
+{
+  "name": "marketplace-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --host 0.0.0.0 --port $PORT"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immanuel4082/marketplace-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/immanuel4082/marketplace-json/issues"
+  },
+  "homepage": "https://github.com/immanuel4082/marketplace-json#readme",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
