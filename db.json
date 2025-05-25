@@ -1,96 +1,132 @@
-{ 
-      products : {
-      {
-      id: 'Portfolio-AI-Agent',
-      name: 'Portfolio AI Agent',
-      price: 'Free',
-      priceName: 'Contact Me',
-      description:
-        'An advanced AI agent that helps the Managers scan for the best person to add to the team',
-      features: [
-        'Updates Information about the person ',
-        'Keeps up to date information if connected to Linkedin site',
-        'Can be used to scan for the best person to add to the team',
+{
+  "products": [
+    {
+      "id": "Portfolio-AI-Agent",
+      "name": "Portfolio AI Agent",
+      "price": "Free",
+      "priceName": "Contact Me",
+      "description": "An advanced AI agent that helps the Managers scan for the best person to add to the team",
+      "features": [
+        "Updates Information about the person ",
+        "Keeps up to date information if connected to Linkedin site",
+        "Can be used to scan for the best person to add to the team"
       ],
-      categories: ['HR', 'Career'],
-      images: [
-        'https://res.cloudinary.com/dpfcle0os/image/upload/v1746122478/LISHAI-Marketplace/Screenshot_2025-05-01_210040_zmysa7.png',
-        'https://res.cloudinary.com/dpfcle0os/image/upload/v1746122479/LISHAI-Marketplace/Screenshot_2025-05-01_210012_skao5v.png',
+      "categories": ["HR", "Career"],
+      "images": [
+        "https://res.cloudinary.com/dpfcle0os/image/upload/v1746122478/LISHAI-Marketplace/Screenshot_2025-05-01_210040_zmysa7.png",
+        "https://res.cloudinary.com/dpfcle0os/image/upload/v1746122479/LISHAI-Marketplace/Screenshot_2025-05-01_210012_skao5v.png"
       ],
-      creator: {
-        name: 'Immanuel Kimani',
-        logoUrl: 'https://immanuelkimani.uk/assets/my-logo.svg',
-        profileUrl: 'https://immanuelkimani.uk',
-      },
+      "creator": {
+        "name": "Immanuel Kimani",
+        "logoUrl": "https://immanuelkimani.uk/assets/my-logo.svg",
+        "profileUrl": "https://immanuelkimani.uk"
+      }
     },
     {
-      id: 'Website-chatter-agent',
-      name: 'Website chatter agent',
-      price: '',
-      priceName: 'Contact Sales',
-      currency: '',
-      description:
-        'An AI agent that helps the users to chat with the website and inquire details about the company it can also book appointments for the users',
-      features: [
-        'Book Appointment',
-        'Help you inquire about the company',
-        'engage with the users',
+      "id": "Website-chatter-agent",
+      "name": "Website chatter agent",
+      "price": "",
+      "priceName": "Contact Sales",
+      "currency": "",
+      "description": "An AI agent that helps the users to chat with the website and inquire details about the company it can also book appointments for the users",
+      "features": [
+        "Book Appointment",
+        "Help you inquire about the company",
+        "engage with the users"
       ],
-      categories: ['chatbot'],
-      images: [
-        'https://res.cloudinary.com/dpfcle0os/image/upload/v1706975520/samples/Lish-website/aboutlish_mc39qx.jpg',
+      "categories": ["chatbot"],
+      "images": [
+        "https://res.cloudinary.com/dpfcle0os/image/upload/v1706975520/samples/Lish-website/aboutlish_mc39qx.jpg"
       ],
-      creator: {
-        name: 'Lish AI Labs',
-        logoUrl:
-          'https://res.cloudinary.com/dpfcle0os/image/upload/v1706977858/samples/Lish-website/lish-logo_jhm8ac.png',
-        profileUrl: 'https://www.lishailabs.com',
-      },
+      "creator": {
+        "name": "Lish AI Labs",
+        "logoUrl": "https://res.cloudinary.com/dpfcle0os/image/upload/v1706977858/samples/Lish-website/lish-logo_jhm8ac.png",
+        "profileUrl": "https://www.lishailabs.com"
+      }
     },
     {
-      id: 'linkedin-badge-Allocator',
-      name: 'linkedin badge Allocator',
-      price: '',
-      priceName: 'Contact Sales',
-      currency: '',
-      description:
-        'This is an agent that takes the Webinar Particapants and automatically updates the Badges and Sends the badges to receipients Email and can also update it for the user if there connect their Linkedin account.',
-      features: ['It Updates in Realtime Linkedin Badges'],
-      categories: ['Social Media'],
-      images: [
-        'https://res.cloudinary.com/dpfcle0os/image/upload/v1745971295/LISHAI-Marketplace/infospace-badge_qhhii9.png',
+      "id": "linkedin-badge-Allocator",
+      "name": "linkedin badge Allocator",
+      "price": "",
+      "priceName": "Contact Sales",
+      "currency": "",
+      "description": "This is an agent that takes the Webinar Particapants and automatically updates the Badges and Sends the badges to receipients Email and can also update it for the user if there connect their Linkedin account.",
+      "features": ["It Updates in Realtime Linkedin Badges"],
+      "categories": ["Social Media"],
+      "images": [
+        "https://res.cloudinary.com/dpfcle0os/image/upload/v1745971295/LISHAI-Marketplace/infospace-badge_qhhii9.png"
       ],
-      creator: {
-        name: 'Infospace Meta',
-        logoUrl:
-          'https://res.cloudinary.com/dpfcle0os/image/upload/v1745970700/LISHAI-Marketplace/logo_wlbzrb.png',
-        profileUrl: 'https://infospacemeta.org',
-      },
+      "creator": {
+        "name": "Infospace Meta",
+        "logoUrl": "https://res.cloudinary.com/dpfcle0os/image/upload/v1745970700/LISHAI-Marketplace/logo_wlbzrb.png",
+        "profileUrl": "https://infospacemeta.org"
+      }
     },
     {
-      id: 'Simba-AI-agent',
-      name: 'Simba AI agent',
-      price: 1000,
-      priceName: 'Start Free Trial',
-      currency: 'Ksh',
-      description: 'This is an AI Model.',
-      features: [
-        'Endpoint Monitoring',
-        'Deepfake Management',
-        'Chat Module',
-        'Voice to Text Module',
-        'Image Generation',
+      "id": "Simba-AI-agent",
+      "name": "Simba AI agent",
+      "price": 1000,
+      "priceName": "Start Free Trial",
+      "currency": "Ksh",
+      "description": "This is an AI Model.",
+      "features": [
+        "Endpoint Monitoring",
+        "Deepfake Management",
+        "Chat Module",
+        "Voice to Text Module",
+        "Image Generation"
       ],
-      categories: ['LLM', 'chatbot', 'AI Model'],
-      images: [
-        'https://res.cloudinary.com/dpfcle0os/image/upload/v1745971672/LISHAI-Marketplace/simba-agent_jttyez.png',
+      "categories": ["LLM", "chatbot", "AI Model"],
+      "images": [
+        "https://res.cloudinary.com/dpfcle0os/image/upload/v1745971672/LISHAI-Marketplace/simba-agent_jttyez.png"
       ],
-      creator: {
-        name: 'Simba AI',
-        logoUrl:
-          'https://res.cloudinary.com/dpfcle0os/image/upload/v1745970892/LISHAI-Marketplace/simba-logo_y1f0iq.svg',
-        profileUrl: 'https://simba-ai.ai',
-      },
-    }, 
+      "creator": {
+        "name": "Simba AI",
+        "logoUrl": "https://res.cloudinary.com/dpfcle0os/image/upload/v1745970892/LISHAI-Marketplace/simba-logo_y1f0iq.svg",
+        "profileUrl": "https://simba-ai.ai"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "user-001",
+      "username": "immanuel_k",
+      "email": "immanuel@example.com",
+      "name": "Immanuel Kimani",
+      "registeredDate": "2024-01-15T10:00:00Z",
+      "roles": ["creator", "customer"]
     },
-},
+    {
+      "id": "user-002",
+      "username": "lish_labs_admin",
+      "email": "admin@lishailabs.com",
+      "name": "Lish AI Admin",
+      "registeredDate": "2023-11-20T14:30:00Z",
+      "roles": ["creator", "admin"]
+    },
+    {
+      "id": "user-003",
+      "username": "infospace_meta_contact",
+      "email": "contact@infospacemeta.org",
+      "name": "Infospace Contact",
+      "registeredDate": "2024-03-01T09:15:00Z",
+      "roles": ["creator"]
+    },
+    {
+      "id": "user-004",
+      "username": "simba_ai_dev",
+      "email": "dev@simba-ai.ai",
+      "name": "Simba AI Developer",
+      "registeredDate": "2024-02-10T16:45:00Z",
+      "roles": ["creator"]
+    },
+    {
+      "id": "user-005",
+      "username": "jane_doe",
+      "email": "jane.doe@example.com",
+      "name": "Jane Doe",
+      "registeredDate": "2024-05-20T11:05:00Z",
+      "roles": ["customer"]
+    }
+  ]
+}
