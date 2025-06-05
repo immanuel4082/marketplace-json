@@ -48,8 +48,8 @@
     {
       "id": "linkedin-badge-Allocator",
       "name": "linkedin badge Allocator",
-      "price": 0,
-      "priceName": "Contact Sales",
+      "price": 400,
+      "priceName": " ",
       "currency": "KES",
       "description": "This is an agent that takes the Webinar Particapants and automatically updates the Badges and Sends the badges to receipients Email and can also update it for the user if there connect their Linkedin account.",
       "features": ["It Updates in Realtime Linkedin Badges"],
