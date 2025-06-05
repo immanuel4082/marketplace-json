@@ -3,8 +3,9 @@
     {
       "id": "Portfolio-AI-Agent",
       "name": "Portfolio AI Agent",
-      "price": "Free",
+      "price": 0,
       "priceName": "Contact Me",
+      "currency": "KES",
       "description": "An advanced AI agent that helps the Managers scan for the best person to add to the team",
       "features": [
         "Updates Information about the person ",
@@ -25,9 +26,9 @@
     {
       "id": "Website-chatter-agent",
       "name": "Website chatter agent",
-      "price": "",
+      "price": 0,
       "priceName": "Contact Sales",
-      "currency": "",
+      "currency": "KES",
       "description": "An AI agent that helps the users to chat with the website and inquire details about the company it can also book appointments for the users",
       "features": [
         "Book Appointment",
@@ -47,9 +48,9 @@
     {
       "id": "linkedin-badge-Allocator",
       "name": "linkedin badge Allocator",
-      "price": "",
+      "price": 0,
       "priceName": "Contact Sales",
-      "currency": "",
+      "currency": "KES",
       "description": "This is an agent that takes the Webinar Particapants and automatically updates the Badges and Sends the badges to receipients Email and can also update it for the user if there connect their Linkedin account.",
       "features": ["It Updates in Realtime Linkedin Badges"],
       "categories": ["Social Media"],
@@ -67,7 +68,7 @@
       "name": "Simba AI agent",
       "price": 1000,
       "priceName": "Start Free Trial",
-      "currency": "Ksh",
+      "currency": "KES",
       "description": "This is an AI Model.",
       "features": [
         "Endpoint Monitoring",
